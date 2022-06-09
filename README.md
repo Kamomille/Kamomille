@@ -2,9 +2,10 @@
 
 [![Kamomille’s github stats](https://github-readme-stats.vercel.app/api?username=Kamomille)](https://github.com/Kamomille)
 
+<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamomille&layout=compact)](https://github.com/Kamomille)
 
-<!--
 **Kamomille/Kamomille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
